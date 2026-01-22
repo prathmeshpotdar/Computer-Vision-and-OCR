@@ -1,3 +1,12 @@
+# How to Run:
+
+## Part A: python main.py --mode detect
+
+## Part B: python main.py --mode ocr --image sample_box.jpg
+
+## Streamlit: streamlit run app.py
+
+
 # Dataset & Model Selection Justification
 
 ## Dataset Selection (Part A)
